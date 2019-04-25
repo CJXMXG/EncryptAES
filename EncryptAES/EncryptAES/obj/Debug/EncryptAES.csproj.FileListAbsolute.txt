@@ -1,0 +1,9 @@
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\bin\Debug\EncryptAES.exe.config
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\bin\Debug\EncryptAES.exe
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\bin\Debug\EncryptAES.pdb
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\obj\Debug\EncryptAES.csprojResolveAssemblyReference.cache
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\obj\Debug\EncryptAES.Form1.resources
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\obj\Debug\EncryptAES.Properties.Resources.resources
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\obj\Debug\EncryptAES.csproj.GenerateResource.Cache
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\obj\Debug\EncryptAES.exe
+E:\WorkSpace\YearProject\2019\2019Demo\EncryptAES\EncryptAES\obj\Debug\EncryptAES.pdb
